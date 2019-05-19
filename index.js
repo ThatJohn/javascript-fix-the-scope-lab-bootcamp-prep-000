@@ -20,7 +20,7 @@ function add2(n) {
 //   }
 // }
 
-funciton funkyFunction(){
+function funkyFunction(){
   return "FUNKY!"
 }
 
